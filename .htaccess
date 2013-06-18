@@ -1,0 +1,5 @@
+Options -Indexes
+Options +FollowSymlinks
+RewriteEngine on
+#RewriteBase /SefeDocuments/
+RewriteRule ^([a-zA-Z]+).html$ index.php?req=$1

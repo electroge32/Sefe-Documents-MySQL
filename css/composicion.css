@@ -1,0 +1,19 @@
+
+body{
+	text-align:center;
+}
+
+div#contenedor{
+	width:940px;
+	text-align:left;
+	margin:15px auto;
+}
+
+div#cabecera{
+	min-height:130px;
+ }
+
+div#contenido{
+	margin-left:350px;
+	width:600px;
+}
